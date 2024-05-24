@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_file_attachment_1" label="Image" language="en" table="x_1314233_loaner_0_loaner_vehicle_catalog">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_file_attachment_1</element>
+            <help/>
+            <hint/>
+            <label>Image</label>
+            <language>en</language>
+            <name>x_1314233_loaner_0_loaner_vehicle_catalog</name>
+            <plural>Images</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-30 23:14:37</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Image</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory Management" source="x_1314233_loaner_0">e1cf09f2977d4210df7bb47de053afa2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory Management">e1cf09f2977d4210df7bb47de053afa2</sys_scope>
+            <sys_update_name>sys_documentation_x_1314233_loaner_0_loaner_vehicle_catalog_u_file_attachment_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-30 23:14:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

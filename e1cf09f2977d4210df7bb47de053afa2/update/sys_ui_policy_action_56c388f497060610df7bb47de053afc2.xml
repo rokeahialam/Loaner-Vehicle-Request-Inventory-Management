@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>return_notes</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-05 22:45:25</sys_created_on>
+        <sys_id>56c388f497060610df7bb47de053afc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>return_notes</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory Management" source="x_1314233_loaner_0">e1cf09f2977d4210df7bb47de053afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory Management">e1cf09f2977d4210df7bb47de053afa2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_56c388f497060610df7bb47de053afc2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-05 22:45:25</sys_updated_on>
+        <table>x_1314233_loaner_0_vehicle_tracker</table>
+        <ui_policy display_value="Vehicle Status is Returned for Inspection">4853c8b497060610df7bb47de053afdb</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
